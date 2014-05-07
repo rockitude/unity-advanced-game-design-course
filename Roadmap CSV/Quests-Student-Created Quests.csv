@@ -1,0 +1,32 @@
+Chart Order,Written,Posted,Section,Quest Chain/Category,Quest Title,Short Description,XP,Badge Prerequisites,Quest Prerequisites,Requires Approval,Topic,Embed Code,Quest Chain,Est. Time,Author,Semester
+62,TRUE,TRUE,Student,Physics,AddForce,Apply force to a rigidbody.,25,Scientist,,FALSE,Rigidbody Scripting,,,40,Mark O’Connor,S2014
+63,TRUE,TRUE,Student,Physics,AddTorque,Apply torque to a rigidbody.,25,Scientist,,FALSE,Rigidbody Scripting,,,,Mark O’Connor,S2014
+64,TRUE,TRUE,Student,Physics,Spin and Jump,Combine your skills from the previous two quests.,25,Scientist,"AddForce, AddTorque",FALSE,Rigidbody Scripting,,,,Mark O’Connor,S2014
+65,TRUE,TRUE,Student,Modeling,Another Brick in the Wall,Create custom textures.,25,Scientist,,FALSE,Texturing,,,,Tucker Macfarlane,S2014
+66,TRUE,TRUE,Student,Modeling,Two D’s? Why not Three?,Build a simple textured object.,25,Scientist,TEXTURE PUN,FALSE,Texturing,,,,Tucker Macfarlane,S2014
+67,TRUE,TRUE,Student,Modeling,Drawn to Life,Create an animated texture and apply it to an object.,25,Scientist,Two D’s? Why not Three?,FALSE,Texturing,,,,Tucker Macfarlane,S2014
+68,TRUE,TRUE,Student,Modeling,Beveled Edges,Use the Bevel tool in Blender to change the geometry of objects and smooth out shapes.,25,Scientist,,FALSE,Shapes and Text,,,,Jacob Albrecht,S2014
+69,TRUE,TRUE,Student,Modeling,3D Text,Create 3D text using the Text tool in Blender.,25,Scientist,,FALSE,Shapes and Text,,,,Jacob Albrecht,S2014
+70,TRUE,TRUE,Student,Modeling,Custom Shapes,Use Blender to create custom 3D shapes.,25,Scientist,,FALSE,Shapes and Text,,,,Jacob Albrecht,S2014
+71,TRUE,TRUE,Student,Modeling,"Monkey See, Monkey Do",Join two objects together.,25,Scientist,,FALSE,Object Constraints,,,,Kirby Barrasso,S2014
+72,TRUE,TRUE,Student,Modeling,Orbits,Apply the Pivot constraint.,25,Scientist,"Monkey See, Monkey Do",FALSE,Object Constraints,,,,Kirby Barrasso,S2014
+73,TRUE,TRUE,Student,Modeling,Flexible Cubes,Use object constraints.,25,Scientist,Orbits,FALSE,Object Constraints,,,,Kirby Barrasso,S2014
+74,TRUE,TRUE,Student,Audio,Did you hear that?,Attach a sound source to an object.,25,Scientist,,FALSE,Sound Source Component,,,,Andrew Dubsky,S2014
+75,TRUE,TRUE,Student,Audio,Good Vibrations,Use a custom rolloff.,25,Scientist,Did you hear that?,FALSE,Sound Source Component,,,,Andrew Dubsky,S2014
+76,TRUE,TRUE,Student,Audio,I’ve Got a Bad Feeling…,Play a sound with a custom rolloff by entering a trigger area or by pressing a key.,25,Scientist,Good Vibrations,FALSE,Sound Source Component,,,,Andrew Dubsky,S2014
+77,TRUE,TRUE,Student,Audio,Lend Me Your Voice!,Make your own dialogue and sound effect.,25,Scientist,I’ve got a bad feeling…,FALSE,Audio Recording,,,,Andrew Dubsky,S2014
+78,TRUE,TRUE,Student,QA,It’s All Fun and Games…,Learn what a QA Engineer actually does.,25,Scientist,,FALSE,QA,,,,Andrew Dubsky,S2014
+79,TRUE,TRUE,Student,QA,Build It to Break It,Create game mechanics with varying bug severities.,25,Scientist,It’s All Fun and Games…,FALSE,QA,,,,Andrew Dubsky,S2014
+80,TRUE,TRUE,Student,QA,Putting It Into Practice,Find someone with a game and test it for him or her.,25,Scientist,Build It to Break It,FALSE,QA,,,,Andrew Dubsky,S2014
+81,TRUE,TRUE,Student,Physics,The Joy of Joints,Learn what a joint is.,25,Scientist,,FALSE,Joints,,,,Kerry McNally,S2014
+82,TRUE,TRUE,Student,Physics,More Joints!,Test out some joints.,25,Scientist,The Joy of Joints,FALSE,Joints,,,,Kerry McNally,S2014
+83,TRUE,TRUE,Student,Physics,Even MORE Joints,Scripting with joints.,25,Scientist,More Joints!,FALSE,Joints,,,,Kerry McNally,S2014
+84,TRUE,TRUE,Student,Programming,OnMouseDown,Learn how to use OnMouseDown().,25,Scientist,,FALSE,Gameplay Scripting,,,,Mark O’Connor,S2014
+85,TRUE,TRUE,Student,Programming,FixedUpdate,Learn the difference between Update() and FixedUpdate().,25,Scientist,OnMouseDown,FALSE,Gameplay Scripting,,,,Mark O’Connor,S2014
+86,TRUE,TRUE,Student,Programming,Teleporter,Use Translate() to instantly move an object.,25,Scientist,FixedUpdate,FALSE,Gameplay Scripting,,,,Mark O’Connor,S2014
+87,TRUE,TRUE,Student,Programming,Vehicle Select,In this series of quests you will use programming to create a racing game demo similar to the 2-D F-Zero games.,25,Scientist,You’re a Maker Now,FALSE,Game Project Example,,,,Matt Roy,S2014
+88,TRUE,TRUE,Student,Programming,Show Me Your Moves!,Use AddRelativeForce() to turn your vehicle.,25,Scientist,"So Rigid, Vehicle Select",FALSE,Game Project Example,,,,Matt Roy,S2014
+89,TRUE,TRUE,Student,Programming,Time to Slow Down,Get your car moving.,25,Scientist,Show me Your Moves!,FALSE,Game Project Example,,,,Matt Roy,S2014
+90,TRUE,TRUE,Student,Programming,Falcon Dive,Jump your car and learn about raycasting.,25,Scientist,"Less QQ, More Pew Pew, Time to Slow Down",FALSE,Game Project Example,,,,Matt Roy,S2014
+91,TRUE,TRUE,Student,Programming,Falcon Finish,Finish your F-Zero-like game.,25,Scientist,"Itchy Trigger Finger, Falcon Dive",FALSE,Game Project Example,,,,Matt Roy,S2014
+,,,,,,,750,,,,,,,40,,

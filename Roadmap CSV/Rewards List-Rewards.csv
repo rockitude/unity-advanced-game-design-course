@@ -1,0 +1,36 @@
+Posted,Asset,Name,Type,Type,XP,Criteria
+TRUE,TRUE,Initiate,Badge,Badge,5,Complete the ‘Welcome’ quest chain.
+TRUE,TRUE,Entry-Level Designer,Badge,Badge,10,Complete Game Design review quest chain.
+TRUE,TRUE,Entry-Level Programmer,Badge,Badge,20,Complete the ‘Programming’ review quest chain.
+TRUE,TRUE,Entry-Level UI Designer,Badge,Badge,15,Complete the UI review quest chain.
+TRUE,TRUE,Entry-Level Physicist,Badge,Badge,20,Complete the Character Control and Physics review quest chains.
+TRUE,TRUE,Entry-Level Asset Handler,Badge,Badge,15,Complete the Assets and Lighting review quest chains.
+TRUE,TRUE,Caught Up,Badge,Badge,25,Earn 800 XP.
+TRUE,TRUE,Game Designer,Badge,Badge,5,Complete the Design quest chain.
+TRUE,TRUE,Camera Operator,Badge,Badge,5,Complete the Cameras quest chain.
+TRUE,TRUE,3D Modeler,Badge,Badge,75,Complete the 3D modeling quest chain.
+TRUE,TRUE,Animator,Badge,Badge,20,Complete the Animation quest chain.
+TRUE,TRUE,Programmer,Badge,Badge,50,Complete the Programming quest chain.
+TRUE,TRUE,UI Artist,Badge,Badge,5,Complete the UI quest chain.
+TRUE,TRUE,Physicist,Badge,Badge,10,Complete the Physics quest chain.
+TRUE,TRUE,Lighting Operator,Badge,Badge,10,Complete the Lighting quest chain.
+TRUE,TRUE,Audio Enginer,Badge,Badge,5,Complete the Audio quest chain.
+TRUE,TRUE,Asset Manager,Badge,Badge,5,Complete the Assets quest chain.
+TRUE,TRUE,Team Lead,Badge,Badge,50,Earn 1600 XP.
+TRUE,TRUE,Scientist,Badge,Badge,25,Complete ‘Science!’ (Choose a Specialty)
+TRUE,TRUE,Self Start(er),Achievement,Achievement,25,Complete five or more quests in five days.
+TRUE,TRUE,FixedUpdate(er),Achievement,Achievement,50,Complete 10 or more quests in 5 days
+TRUE,TRUE,Opinionated,Achievement,Achievement,5,Rate 5 quests.
+TRUE,TRUE,Town Crier,Achievement,Achievement,10,Rate 10 quests.
+TRUE,TRUE,Announcer,Achievement,Achievement,15,Rate 20 quests.
+TRUE,TRUE,Megaphone Owner,Achievement,Achievement,15,Rate 30 quests.
+TRUE,TRUE,Influencer,Achievement,Achievement,20,Rate 50 quests.
+TRUE,TRUE,Super Sonic,Achievement,Achievement,15,Earn 300 XP in one week.
+TRUE,TRUE,Ultra Sonic,Achievement,Achievement,30,Earn 500 XP in one week.
+TRUE,TRUE,for(looper),Award,Award,10,Successfully complete multiple revisions of a quest.
+TRUE,TRUE,Attitude Control,Award,Award,10,Demonstrate excellent behavior.
+TRUE,TRUE,Resource Found,Award,Award,25,Use available resources in an interesting or creative way.
+TRUE,TRUE,Quest Designer,Award,Award,50,Design an awesome quest.
+TRUE,TRUE,Documentarian,Award,Award,25,Exhibit excellent writing.
+TRUE,TRUE,Forging Ahead,Award,Award,10,Show initiative and go ahead without being asked.
+TRUE,TRUE,Progression Raider,Award,Award,10,Make impressive progress.

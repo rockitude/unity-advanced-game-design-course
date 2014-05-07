@@ -1,0 +1,10 @@
+#Resources
+
+* [Unity Website](http://moodle.natickps.org/moodle/mod/url/view.php?id=41338)
+* [Unity Manual](http://moodle.natickps.org/moodle/mod/url/view.php?id=29184)
+* [Unity Scripting Reference](http://moodle.natickps.org/moodle/mod/url/view.php?id=29186)
+* [Unity Tutorial Videos](http://moodle.natickps.org/moodle/mod/url/view.php?id=29185)
+* [Download Unity](http://moodle.natickps.org/moodle/mod/url/view.php?id=29183)
+* [Mr. Lipson's YouTube Channel](http://moodle.natickps.org/moodle/mod/url/view.php?id=41341)
+* [Unity Offline Activation Page](http://moodle.natickps.org/moodle/mod/url/view.php?id=41971)
+* [Advanced Game Design Course Roadmap](https://www.dropbox.com/s/9xfthljaq3l8th9/Advanced%20Game%20Design%20Roadmap.pdf)
