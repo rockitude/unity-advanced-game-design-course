@@ -1,0 +1,15 @@
+Description
+
+One of the first things we learn about scripting in Unity is also one of the most common tasks we'll need to do: find out if a key has been pressed so we can make a decision. We'll do this using the GetKeyDown() function, or something similar like GetButtonDown() or GetAxis(), all of which come from Unity's Input class.
+
+Check out this video for more info on GetButton() and GetKey():
+
+[Input.GetKeyDown()](unity3d.com/learn/tutorials/modules/beginner/scripting/get-button-and-get-key)
+
+Write a script for your game that performs an action when a key is pressed.
+
+Submission Details
+
+Write a script for your game that performs an action when a key is pressed.
+
+Paste your code into the submission box.

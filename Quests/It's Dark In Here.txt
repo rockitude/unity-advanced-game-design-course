@@ -1,0 +1,13 @@
+**Description**
+
+We can add all kinds of different lights and lighting effects into our games, but one of the defining factors in how our game will look is how Unity renders our objects when light hits them. This is determined using a small script called a Shader, and Unity comes with lots of them built in, or you can write your own. 
+
+The Shader options for any object that's visible in-game can be found at the bottom of the Inspector. 
+
+For this quest, experiment with some of the shaders that are available by default. Try a whole bunch of them out, and make guesses about how they'll work based on their name and category. For more information, take a look at this [reference page](http://docs.unity3d.com/Documentation/Components/Built-inShaderGuide.html) that details Unity's built-in shaders. 
+
+In the submission box, describe three shaders you tried and what was similar or different about each.
+
+**Submission Details**
+
+In the submission box, describe three shaders you tried and what was similar or different about each.

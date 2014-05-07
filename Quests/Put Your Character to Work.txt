@@ -1,0 +1,19 @@
+**Description**
+
+[Creating Unity-Compatible Rigs](www.youtube.com/watch?v=7X2UqIZ1xKs&feature=youtube_gdata)
+
+If you took the character model you made in the last quest and tried to import it into Unity, you'd be able to see it, but Unity wouldn't be able to apply its default rig and get the character moving and animating. This is because Unity expects a standardized bone structure for its player characters. 
+
+In this quest, your job is to take a look at the Unity standard bone structure, and create a model in Blender with the same structure. That character should be compatible with Unity; something we'll test at the end of the quest.
+
+To start, import Unity's default character controller package into your game project. Select the construction worker character model that comes with the package; remember that models are different from prefabs: they have a little white rectangle in addition to the blue cube in their icon. 
+
+Once you've selected the model, click on the 'Rig' tab in the Inspector, switch its Animation Type setting to 'Humanoid', and click the 'Apply' button. This applies a default humanoid rig to the character. Now, click 'Configure...' to see the character's bone structure.
+
+You should now be looking at the construction worker in a T-pose, with a map of his body in the Inspector. This is the bone structure your characters will need to have. If you can create a character with this bone structure in Blender, that character should be very easy to animate in Unity.
+
+To complete this quest, create a character in Blender with Unity's standard bone structure. Then export the character from Blender, drag it into your Project window in Unity and apply the Unity humanoid rig to it. Take a screenshot of your character in a T-pose with bones showing and attach it to your submission.
+
+**Submission Details**
+
+To complete this quest, create a character in Blender with Unity's standard bone structure. Then export the character from Blender, drag it into your Project window in Unity and apply the Unity humanoid rig to it. Take a screenshot of your character in a T-pose with bones showing and attach it to your submission.

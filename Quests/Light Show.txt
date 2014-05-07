@@ -1,0 +1,11 @@
+**Description**
+
+Here's your chance to put together a few of the things you've learned about so far: adding lights to your project and accessing properties of components using scripts.
+
+For this quest, create a light show that involves at least one light moving or changing color while the game is running. Make sure your camera is placed so that the player can see the show. When you're done, record and submit a screencast.
+
+If you need ideas for the kinds of things you can make a light do using scripts, take a look on the web at some scripts others have wrote and adapt them for your own needs. 
+
+**Submission Details**
+
+For this quest, create a light show that involves at least one light moving or changing color while the game is running. Make sure your camera is placed so that the player can see the show. When you're done, record and submit a screencast.

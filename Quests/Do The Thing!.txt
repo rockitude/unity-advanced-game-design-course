@@ -1,0 +1,15 @@
+Description
+
+Functions are an important part of any programmer's arsenal: they're a way to save a procedure, or set of instructions, for later use (and re-use). They're also great for organizing your code: it's a lot easier to read and understand well-written function calls than endless lines of complex code.
+
+Check out this video for more information:
+
+[Functions](unity3d.com/learn/tutorials/modules/beginner/scripting/variables-and-functions)
+
+Write a script for your game that includes a call to a custom function, created by you, that's outside of the built-in functions. These include all of the functions that Unity puts into your script by default, or the other ones that have special purposes, such as Start(), Update(), FixedUpdate(), Awake(), etc.
+
+Submission Details
+
+Write a script for your game that includes a call to a custom function, created by you, that's outside of the built-in functions. These include all of the functions that Unity puts into your script by default, or the other ones that have special purposes, such as Start(), Update(), FixedUpdate(), Awake(), etc.
+
+Paste your code into the submission box.

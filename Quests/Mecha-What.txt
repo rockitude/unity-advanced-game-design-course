@@ -1,0 +1,11 @@
+**Directions**
+
+The most recent verison of Unity, Unity 4, comes with some awesome tools to help us get our characters animating in a much more configurable and realistic way. The new animation system is called Mecanim, and it's very powerful. It's also very complex. Watch this video tutorial to learn the basics of Mecanim and start animating your characters. Settle in for the long haul: don't be afraid to split this one up into multiple viewings.
+
+[Mecanim - Character Animation](video.unity3d.com/video/7362044/unity-40-mecanim-animation-tutorial)
+
+When you've completed the tutorial, submit a video showing the behaviors your robot character can now do. You can skip over anything related to Curves - that's a Unity Pro-only feature. The lack of curves means our final product isn't going to be exactly the same as what they've shown in this video, but it should be pretty close. Also, don't worry too much about the 'IK' terminology - IK is a rigging method that we'll be exploring in the future. For now, just follow the instructions and see if you can get your robot to do all the things that theirs does.
+
+**Submission Details**
+
+Submit a video showing the behaviors your robot character can now do. 

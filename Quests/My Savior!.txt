@@ -1,0 +1,13 @@
+**Description**
+
+Blender's user interface (all of its buttons and menus) are very complex, and very customizable. In this quest, you'll learn how to set Blender up in a way that works for you. Each user will have their own customizations and setup that they prefer, so while you are free to share your configuration, you should also feel free to use Blender differently than the ways other people in your class use it.
+
+To learn more about how to set up Blender to work the way you want it, check out this video:
+
+[Customizing and Saving the UI](www.youtube.com/watch?v=dQKsXmlDf78&list=PL006307E237BB7FF6&index=2)
+
+Take a screenshot of your customized preferences window. In the submission box, describe one of the changes you made.
+
+**Submission Details**
+
+Take a screenshot of your customized preferences window. In the submission box, describe one of the changes you made.

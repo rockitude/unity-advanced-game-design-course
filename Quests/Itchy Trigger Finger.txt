@@ -1,0 +1,16 @@
+Description
+
+Colliders and triggers have an important thing in common: they both designate an area, and when an object enters, leaves or remains within the area, something happens. The key difference between them is that solid objects will run into a collider, whereas they'll move through a trigger. 
+
+Triggers aren't created on their own, they start out as colliders. For more information, check out this video:
+
+[Convert Collider to Trigger](unity3d.com/learn/tutorials/modules/beginner/physics/colliders-as-triggers)
+
+In your submission, explain the difference between colliders and triggers and give one example of when you would use each one. Then, take two screenshot of a trigger you've created in your game: one of the trigger area in the Scene view (it will be outlined in green) and one of the collider component in the inspector. 
+
+Submission Details
+
+In your submission, explain the difference between colliders and triggers and give one example of when you would use each one. Then, take two screenshot of a trigger you've created in your game: one of the trigger area in the Scene view (it will be outlined in green) and one of the collider component in the inspector. 
+
+Write your text in the submission box and attach the images below.
+

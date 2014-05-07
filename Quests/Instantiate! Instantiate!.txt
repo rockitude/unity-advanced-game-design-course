@@ -1,0 +1,13 @@
+**Description**
+
+One of the reasons we learned how to create prefab assets in the introductory Game Design class is so we could create copies of those objects in our game at runtime, meaning after the game has started. Now it's time to learn how to do that: we're going to use another convenient built-in Unity function: Instantiate(). You'll be using this one a lot.
+
+Here's how it works:
+
+[Instantiate()](unity3d.com/learn/tutorials/modules/beginner/scripting/instantiate)
+
+Create or import any prefab into your game. Now, create a script that instantiates that object when a key or button is pressed. Attach a screencast to your submissiont that shows the object being created in the game after it has started.
+
+**Submission Details**
+
+Create or import any prefab into your game. Now, create a script that instantiates that object when a key or button is pressed. Attach a screencast to your submissiont that shows the object being created in the game after it has started.

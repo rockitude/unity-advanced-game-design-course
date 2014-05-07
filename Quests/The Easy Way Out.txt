@@ -1,0 +1,13 @@
+**Directions**
+
+There are lots of ways to create player characters in Unity, but sometimes you just want to throw something together really quickly so you can run around in your game world and experiment. Lucky for you, there's an easy option to do exactly this, and it's built into Unity. Unity comes with a set of packages of assets you're likely to use often, and the first one on the list is Character Controllers. It includes two prefab character controllers: a first person and a third person controller. Alongside them, you'll find resources that you can use to create your own first-person- or third-person-controlled objects.
+
+Check out this video for more information:
+
+[Instantiate Premade Character Controller](www.youtube.com/watch?v=gqqYIv1Ur7M)
+
+Now, do it yourself: import the Character Controllers package and create an instance of the Third Person Controller prefab. Take a screenshot of your third person controller object in your game, and attach it to your submission.
+
+**Submission Details**
+
+Import the Character Controllers package and create an instance of the Third Person Controller prefab. Take a screenshot of your third person controller object in your game, and attach it to your submission.

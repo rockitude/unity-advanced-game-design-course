@@ -1,0 +1,13 @@
+Description
+
+While you might sometimes want to use the built-in construction worker object to run around in your game and do some testing, it's more likely that you'll want to model a character yourself or grab one from the Asset Store. But if you do that, you still need to get them moving and animating, so why not make use of the same components that work for the construction worker (Third Person Camera and Third Person Controller) for your own character?
+
+Check out this video to learn how:
+
+[Apply Character Controller Components](www.youtube.com/watch?v=izMg9Ez18Yom)
+
+Find or create a player object and apply Unity’s built-in character controller components to it.
+
+Submission Details
+
+Record a screencast of you moving around the world with your player object. Attach the video to your submission.

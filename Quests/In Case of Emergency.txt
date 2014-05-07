@@ -1,0 +1,13 @@
+**Description**
+
+If you've ever seen a JJ Abrahams movie, you know all about lens flare: the effect that happens when the light entering a camera reflects in an undesired way. It's very common in sci-fi lately, especially in movies like 2009's Star Trek. 
+
+You can add your own lens flare into your games. Check out this video to learn how:
+
+[Flares](unity3d.com/learn/tutorials/beginner/graphics/lights)
+
+Apply a three of Unity's built-in flares to lights and take screenshots of each. Write one example how you might use each one in your submission. Attach your screenshots below the submission box.
+
+**Submission Details**
+
+Apply a three of Unity's built-in flares to lights and take screenshots of each. Write one example how you might use each one in your submission. Attach your screenshots below the submission box.

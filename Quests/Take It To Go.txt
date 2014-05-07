@@ -1,0 +1,13 @@
+**Description**
+
+Once you finish up your quests in GameLab, it'll be time to start working on our whole-class game project. We're going to be developing as a team, which means we'll need to move assets back and forth between multiple projects and computers. Unity makes it pretty straightforward to move asets in and out of your project with their package system. 
+
+For this quest, you'll create an asset of your own: it could be a prefab made from primitive shapes, an object you created in Blender and imported into Unity, a custom material or anything else you'd like. 
+
+Once your asset is created, export it by right-clicking on the asset in the Project window and choosing 'Export Package'. Confirm that your package includes the asset that you want, give it a name and a destination, and export it.
+
+Take a screenshot of the resulting .unitypackage file in the Finder and attach it to your submission.
+
+**Submission Details**
+
+Take a screenshot of the resulting .unitypackage file in the Finder and attach it to your submission.

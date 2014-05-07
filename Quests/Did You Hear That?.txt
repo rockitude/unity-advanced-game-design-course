@@ -1,0 +1,11 @@
+**Description**
+
+One key component that's been missing from our games so far is sound: games usually include background music and sound effect, and they may also include voiceover, dialogue, narration, etc. Adding sound to your game is pretty straightforward: check out this video to learn more:
+
+[Sound Sources](unity3d.com/learn/tutorials/modules/beginner/audio/lessons/audio-sources-and-listeners)
+
+Attach a sound source component to any object in your game that should act as a sound source. Take a screenshot of the object with the Inspector visible, so I can see the sound source component.
+
+**Submission Details**
+
+Attach a sound source component to any object in your game that should act as a sound source. Take a screenshot of the object with the Inspector visible, so I can see the sound source component.

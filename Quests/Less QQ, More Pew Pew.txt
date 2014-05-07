@@ -1,0 +1,13 @@
+**Description**
+
+When you start to create more complex games with artificial intelligence for your objects, one thing you'll likely want to do a lot is detect objects around your player (or any other object, really). We've already covered how you can use triggers to determine whether and object has entered a defined area, but now you're going to learn how to use Raycasts to find out whether there's anything in a specified direction. 
+
+Watch this video to learn more about raycasting:
+
+[Raycasting](unity3d.com/learn/tutorials/modules/beginner/physics/raycasting)
+
+Create a player object and use a raycast to detect whether there’s anything in front of it. Write a script that prints a message to tell you whether your raycast hit anything or not. Take a screenshot in both cases: the message confirming that your raycast hit something, and the message saying that nothing was it. Attach your two screenshots to your submission, and paste your code into the submission box.
+
+**Submission Details**
+
+Create a player object and use a raycast to detect whether there’s anything in front of it. Write a script that prints a message to tell you whether your raycast hit anything or not. Take a screenshot in both cases: the message confirming that your raycast hit something, and the message saying that nothing was it. Attach your two screenshots to your submission, and paste your code into the submission box.

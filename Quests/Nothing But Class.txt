@@ -1,0 +1,15 @@
+**Description**
+
+We covered a whole lot of ground in the introductory Game Design course to get you ready to program in Unity, but along the way we glossed over a whole bunch of really important stuff. This quest covers the most important of those omissions: Classes. Classes are a really important part of Object-Oriented Programing (JavaScript is an object-oriented programming language), and we've been lucky enough to be able to skip over them so far because Unity basically handles them for you. 
+
+In this quest, you're going to learn how to create your own classes, complete with their own constructors. 
+
+Watch this video to learn how classes work in Unity:
+
+[Classes and Constructors](unity3d.com/learn/tutorials/modules/beginner/scripting/classes)
+
+Create your own class to manage Inventory, as shown in the video. Then, add your own collectible item type to the class. Don't forget to add a parameter to your constructor as well. Paste your code into the submission box when you're finished.
+
+**Submission Details**
+
+Create your own class to manage Inventory, as shown in the video. Then, add your own collectible item type to the class. Don't forget to add a parameter to your constructor as well. Paste your code into the submission box when you're finished.

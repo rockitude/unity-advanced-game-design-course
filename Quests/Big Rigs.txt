@@ -1,0 +1,13 @@
+**Description**
+
+You're starting to get familiar with how to create more complex models in Unity; it's time to start thinking about the most common complex model you'll need to create: humanoid characters. Humanoids don't just sit unmoving in your game: they have to be animated and dynamic. Blender is capable of creating animated characters that can be bend and moved through a process called Rigging, which involves applying a bone structure to your character so they can be moved with constraints similar to the way our own bodies move.
+
+Check out this video to learn more about bones and rigging:
+
+[Bones and Rigging 101](www.youtube.com/watch?v=EcNGeIV0BsU&list=PL006307E237BB7FF6&index=13)
+
+Create a humanoid character and rig as described in the video. Take two screenshots of your character model: one in a T-pose, and one after some limbs have been bent. Attach your screenshots to your submission.
+
+**Submission Details**
+
+Create a humanoid character and rig as described in the video. Take two screenshots of your character model: one in a T-pose, and one after some limbs have been bent. Attach your screenshots to your submission.

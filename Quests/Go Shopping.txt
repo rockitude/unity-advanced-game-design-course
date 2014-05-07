@@ -1,0 +1,14 @@
+**Description**
+
+Your game is going to require lots of assets, and assets require a lot of time and effort to create. Most of the hundreds of people who work on modern game titles aren't game designers; they're artists, programmers and other professionals who create assets that will be used in the game. We don't have time to create lots and lots of assets for our games, but we can still draw all of this creative work by importing our assets from Unity's Asset Store. 
+
+The Asset Store is to Unity what the App Store is to the iPhone: it's a place where you can find all of the assets that have been made available by the Unity community, and either buy them or download them for free. 
+
+You can access the Asset Store in the Window menu the top of your screen. Browse around and see what's available. Make sure to check out all of the categories of assets in the right-hand column.
+
+Find an asset you like and import it into your project. Take two screenshots: one of the asset's page on the asset store, and one of the same asset in your project window.
+
+**Submission Details**
+
+Find an asset you like and import it into your project. Take two screenshots: one of the asset's page on the asset store, and one of the same asset in your project window.
+

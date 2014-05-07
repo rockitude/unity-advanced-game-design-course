@@ -1,0 +1,15 @@
+**Description**
+
+In the introductory Game Design course, you learned how to use triggers to make an event happen when an object entered a specified area, and you created those triggers from colliders. What if you want to trigger an event, but you still want your object to be able to collide with other objects? The OnCollisionEnter() (and OnCollisionStay() and OnCollisionExit()) functions are for you.
+
+Watch this video to learn more about OnCollisionEnter():
+
+[OnCollisionEnter()](unity3d.com/learn/tutorials/modules/beginner/physics/on-collision-enter)
+
+Once you're done, demonstrate what you've learned by creating an example involving two objects (they can be simple cubes, or whatever you'd like): 
+
+One object should run into or fall onto the other, triggering some sort of event. This could mean destroying one of the objects, making text appear on screen or playing a sound clip, or you could come up with whatever other idea you want. Recording a screencast of your event happening and attach it to your submission.
+
+**Submission Details**
+
+One object should run into or fall onto the other, triggering some sort of event. This could mean destroying one of the objects, making text appear on screen or playing a sound clip, or you could come up with whatever other idea you want. Recording a screencast of your event happening and attach it to your submission.

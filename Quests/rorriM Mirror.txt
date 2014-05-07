@@ -1,0 +1,13 @@
+**Description**
+
+A lot of the objects you'll need to create are symmetrical: humaniods, vehicles, buildings, etc. Blender includes a convenient modifier called Mirror, which will keep your model symmetrical and do half of the work for you. 
+
+Check out this video to learn how to use the mirror modifier:
+
+[Mirror Modifier](www.youtube.com/watch?v=y7ArlYDNi-A&list=PL006307E237BB7FF6&index=7)
+
+Create a simple symmetrical object, such as a building, car or humanoid. Take a screenshot of your model and attach it to your submission.
+
+**Submission Details**
+
+Create a simple symmetrical object, such as a building, car or humanoid. Take a screenshot of your model and attach it to your submission.

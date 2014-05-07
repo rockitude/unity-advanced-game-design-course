@@ -1,0 +1,40 @@
+**Description**
+
+Congratulations, you are now an advanced Unity user! You've completed enough intermediate-level quests to strike out on your own and take control of your destiny. In this repeatable quest, your job is to choose a topic in the area where you'd like to specialize and create a three-or-more-quest series that can be added to the course to help other students learn about your chosen topic.
+
+Completing this quest for a given specialty will qualify you to perform that job when we create our whole-class game project. That means that if you want to be an animator, you will have to make a quest chain about an animation topic. If you want to be a programmer, you'll have to make a quest chain about a programming topic. It's likely you'll end up completing this more than once, so don't worry about restricting yourself to one role.
+
+Here are the available specialties (which are also the available roles for our game project):
+
+* Designer
+	* Producer
+	* Level Designer
+	* Balance Designer
+* 2D Artist
+	* Concept Artist
+	* Sprite Artist
+	* Texture Artist
+	* Environment Artist
+	* User Interface (UI) Artist
+* 3D Artist
+	* 3D Modeler/Mesh Artist
+	* Animator
+	* 3D Environment Designer
+	* Cinematics Artist
+* Programmer
+	* Physics
+	* Artificial Intelligence (AI)
+	* Graphics
+	* Sound
+	* Gameplay
+	* Scripting
+	* User Interface (UI)
+	* Input Processing
+	* Network Communications
+	* Game Tools (Unity Custom Tools)
+* Audio Engineer
+* Game QA Engineer (Tester)
+
+**Submission Details**
+
+Submit your quest chain in a Google Doc, share it with me and paste a link to it in the submission box. Specify in your document which specialty you chose. When your quests are approved, they will be added to the course and you will be given credit, so other students will know how awesome you are!

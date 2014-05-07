@@ -1,0 +1,13 @@
+**Directions**
+
+If you've tried to import any of the models you've made in Blender into Unity, you might have noticed that the mesh appears just fine (every surface on the object will appear in grey), but the textures aren't there. That's because you need to import the textures separately, and to do that you'll need to create a flat texture image, called a UV map. 
+
+Check out this video for more information on UV mapping:
+
+[UV Mapping](www.youtube.com/watch?annotation_id=annotation_624987&feature=iv&src_vid=l-Zkt3uAeO0&v=obB9T3jXlak)
+
+For this quest, create a UV map for a cube with six different colored side. Import your cube into Unity and apply the map. Attach a screenshot of your multicolored cube in Unity to your submission.
+
+**Submission Details**
+
+For this quest, create a UV map for a cube with six different colored side. Import your cube into Unity and apply the map. Attach a screenshot of your multicolored cube in Unity to your submission.

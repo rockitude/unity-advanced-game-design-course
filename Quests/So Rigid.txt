@@ -1,0 +1,38 @@
+Description
+
+One of the coolest things about Unity is its advanced physics engine, which can model all kinds of real-world or totally crazy situations for our game world. By default, objects you place in your game don't respond to physics. To make your object respond to physics, you'll need to turn it into a Rigidbody. 
+
+For more information on rigidbodies, watch this video:
+
+[Applying Rigidbody component to objects](unity3d.com/learn/tutorials/modules/beginner/physics/rigidbody)
+
+This quest a multi-step process:
+
+1. Create two primitive objects. 
+2. Leave one as-is, and attach a Rigidbody component to the other. 
+3. Create two scripts. Name them *Translate Test* and *AddForce Test*.
+4. Attach *Translate Test* your non-rigidbody object.
+5. Attach *AddForce Test* to your rigidbody object.
+6. Enter the code below into your scripts. Don't copy and paste it, as this could cause formatting problems.
+7. Apply the *Translate Test* script to your non-rigidbody, and the *AddForce* script to your rigidbody.
+8. Start the game and press "g". 
+
+**Translate Test**
+
+> if(Input.GetKeyDown("g")){
+> 	   transform.Translate(Vector3.forward * 50);
+> }
+
+**AddForce Test**
+
+> if(Input.GetKeyDown("g")){
+>    rigidbody.AddForce(Vector3.forward * 50);
+> {
+
+Describe the difference between these two functions and what they do to your objects in your submission. 
+
+Submission Details
+
+Describe the difference between these two functions and what they do to your objects in your submission. 
+
+

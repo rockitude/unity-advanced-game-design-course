@@ -1,0 +1,13 @@
+**Description**
+
+If you've ever used Photoshop, you might be familiar with the concept of Layers. In an image, you can lay multiple parts of an image on top of each other, edit them separately and merge them when you're done. Unity's layers have a similar concept: by placing our objects onto separate layers, we can define which objects are able to interact with which other objects. 
+
+Check out this video to learn more about layers:
+
+[Layers](unity3d.com/learn/tutorials/modules/intermediate/layers)
+
+Create a custom layer and place three objects on it. Take three screenshots: one of each object, including the inspector so I can see which layer each one is on. 
+
+**Submission Details**
+
+Create a custom layer and place three objects on it. Take three screenshots: one of each object, including the inspector so I can see which layer each one is on. 

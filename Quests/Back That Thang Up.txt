@@ -1,0 +1,13 @@
+**Description**
+
+You've created your first Blender project, so now is a great time to remind you that you should always, **always**, **ALWAYS** save backup copies of your project. You can never predict when something weird will happen with your computer, and it's never a bad idea to have another copy of your files, should the originals mysteriously disappear. 
+
+Watch this video to learn about saving and restoring projects:
+
+[Saving, Restoring, Backups and Iterations](www.youtube.com/watch?v=DqCrAQehzQw&list=PL006307E237BB7FF6&index=4)
+
+Save your project and take a screenshot of it in the Finder. Attach your screenshot to your submission.
+
+**Submission Details**
+
+Save your project and take a screenshot of it in the Finder. Attach your screenshot to your submission.

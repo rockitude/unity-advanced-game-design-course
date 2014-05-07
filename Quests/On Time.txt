@@ -1,0 +1,11 @@
+Description
+
+There's another convenient variable included in the Time class that we'll be using quite a bit: Time.time. Time.time represents the amount of time, in seconds, that's elapsed since the start of the game. There are a lot of wasy that Time.time can be really useful for us; I'll leave you to figure out this one:
+
+Write a script for your game that performs an action every 5 seconds (or some other interval of X seconds).
+
+Submission Details
+
+Write a script for your game that performs an action every 5 seconds (or some other interval of X seconds).
+
+Paste your code into the submission box.

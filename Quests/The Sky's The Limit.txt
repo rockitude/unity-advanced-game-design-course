@@ -1,0 +1,16 @@
+**Description**
+
+Even though you've added lights to your game, it may still be looking a little dark and dreary. That's because your world doesn't yet include a background, which is usually going to look like a sky. Including a sky gives the world a sense of size, and places it in a familiar or unfamiliar location for the player, depending on what kind of sky you have. A simple daytime sky with clouds places the game on an earth-like planet, whereas a sky full of meteors and nebulas puts your player in space.
+
+You can add a sky to your game using Skyboxes. There are several skybox assets available by default in the menu of packages you choose from when you first create your project. You can also access them through the Assets menu. If you want to find even more skyboxes with greater variety, check out that section on the asset store.
+
+Check out this video for information on how to add a skybox to your game: 
+
+[Skyboxes](www.youtube.com/watch?v=-YLvAOL4fNo)
+
+Add a skybox to your game. Switch over to the game view and take a screenshot.
+
+**Submission Details**
+
+Add a skybox to your game. Switch over to the game view and take a screenshot.
+

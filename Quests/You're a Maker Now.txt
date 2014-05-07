@@ -1,0 +1,15 @@
+Description
+
+Your games will likely include multiple versions of the same object, or customized versions of 3D models you've imported. In both cases, we need a way to save a version of an object for frequent insertion into the game, and for distribution to other people if they want to use it. These saved, reproduceable objects are called **prefabs** (which stands for 'prefabricated objects'). Objects created from a prefab are called **instances**. The process of creating an instance of a prefab is instanitation. When you create an instance of a prefab, you **instantiate** the prefab.
+
+Check out this video to learn more about prefabs:
+
+[Make and Instantiate Prefabs](unity3d.com/learn/tutorials/modules/beginner/editor/prefabs-concept-usage)
+
+Create a prefab from the simple object you made in the last quest and make five instances of it.
+
+Submission Details
+
+Take two screenshots: one showing your five newly created instances, and another showing the inspector window for one of them. At the top of the inspector, there should be a special 'prefab' toolbar.
+
+Attach your screenshots to your submission.

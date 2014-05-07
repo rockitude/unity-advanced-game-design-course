@@ -1,0 +1,11 @@
+Description
+
+Loops are a concept in programming that make it much easier to include repeated actions in your project. Check out this video to learn more about how to write a loop:
+
+[Loops](unity3d.com/learn/tutorials/modules/beginner/scripting/loops)
+
+Write a loop that performs a repeated action in your game. You can pick anything that fits what you need to do: something as simple as using print() to print information to the console, or something more complex like searching through a list for. Anything you choose to do is fine, as long as it includes a correctly-written loop.
+
+Submission Details
+
+Paste your code into the submission box.

@@ -1,0 +1,13 @@
+Description
+
+If you've tried to create a game without them, you probably know by now that you need to put lights in your game world if you want your player to be able to see the action. Unity provides four types of lights by default, but only three are available in the free version of Unity: Directional lights, Point lights and Spotlights. 
+
+For more information about the types of lights that are available and what they do, check out this video:
+
+[Light Types](unity3d.com/learn/tutorials/beginner/graphics/lights)
+
+Add lighting to the game you're currently working on and explain why you chose the lights and placements that you did in your submission. Include a screenshot so I can see how you set up your lights. 
+
+Submission Details
+
+Add lighting to the game you're currently working on and explain why you chose the lights and placements that you did in your submission. Include a screenshot so I can see how you set up your lights. 

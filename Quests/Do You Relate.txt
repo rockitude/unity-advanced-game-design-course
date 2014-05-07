@@ -1,0 +1,15 @@
+Description
+
+Your game is going to have a lot of objects in it, and we need a way to manage them and keep track of what goes with what. Enter parent/child relationships: with parent/child relationships, you can define which objects go with which, and even edit them together as a group.
+
+Check out this video for more information on parent/child relationships in Unity:
+
+[Parent/Child Relationships](unity3d.com/learn/tutorials/modules/beginner/editor/the-hierarchy-and-parent-child-relationships)
+
+Create a simple object for your game (such as a streetlight, person or snowman) from primitives and connect its parts using parent/child relationships. Make sure you name and organize your objects in a hierarchy that make sense for your object. For example, on a snowman, the body might be the parent, while eyes, nose and gumdrop buttons could be children. 
+
+Submission Details
+
+Create a simple object for your game (such as a streetlight, person or snowman) from primitives and connect its parts using parent/child relationships. 
+
+Take two screenshots: one of your object in the Scene view and one of the Hierarchy with your parent/child relationships expanded so I can see the whole family: parents, children, grandchildren, etc. Attach your screenshots to your submission.

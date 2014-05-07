@@ -1,0 +1,13 @@
+**Description**
+
+When creating scripts for your games, you'll often need to make something happen gradually, such as fading a light or sliding an object into a new position. This requires a variable that changes over time between two values, and Unity has an awesome built-in function that can generate it for us. It's called Lerp(), and it stands for Linear Interpolation. 
+
+Check out this video to learn about what Lerp() can do for you and how to use it:
+
+[Lerp()](unity3d.com/learn/tutorials/modules/beginner/scripting/lerp)
+
+Fade a light’s brightness using Lerp(). Attach a screencast of your light changing in brightness to your submission.
+
+**Submission Details**
+
+Fade a light’s brightness using Lerp(). Attach a screencast of your light changing in brightness to your submission.

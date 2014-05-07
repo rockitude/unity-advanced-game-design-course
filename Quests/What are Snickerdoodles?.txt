@@ -1,0 +1,13 @@
+**Description**
+
+By now you've probably had plenty of experience adding lights of all types to your game. Now it's time to customize them and get them looking really cool! One way to do this is with a special property called Cookies. 
+
+Check out this video to learn what cookies are and how to apply them:
+
+[Cookies](unity3d.com/learn/tutorials/beginner/graphics/lights)
+
+Apply a three different cookies to lights and take a screenshot of each. Give one example of how/when you might use each one.
+
+**Submission Details**
+
+Apply a three different cookies to lights and take a screenshot of each. Give one example of how/when you might use each one.

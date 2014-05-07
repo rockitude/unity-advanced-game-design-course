@@ -1,0 +1,15 @@
+Description
+
+Anyone who's tried to play a modern game on an older machine knows that a game's [frame rate](http://en.wikipedia.org/wiki/Frame_rate) isn't always smooth. Why is this a problem for us? Several important functions, like Update(), run every frame. That means if we perform an action every frame by placing our code inside these functions, our actions won't happen smoothly and consistently. There are a few ways to deal with this, but one of the most common is with a very convenient variable that exists in Unity for this purpose: Time.deltaTime. 
+
+Watch this video to learn more about what Time.deltaTime represents and how you can use it:
+
+[time.DeltaTime](unity3d.com/learn/tutorials/modules/beginner/scripting/delta-time)
+
+Write a script that increases the brightness of a light by 1 unit per second. Make sure you look at examples in the video in the [Unity Script Reference](https://docs.unity3d.com/Documentation/ScriptReference/) to get some ideas for how to do this. 
+
+Submission Details
+
+Write a script that increases the brightness of a light by 1 unit per second. 
+
+Paste your code into the submission box. 

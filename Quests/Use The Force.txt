@@ -1,0 +1,16 @@
+Description
+
+Unity can create all kinds of cool physical interactions between the objects in our games, but only if we tell Unity what those objects are and how they're supposed to work. Objects that respond to physics are called rigid bodies, and we'll apply the Rigidbody component to them so Unity knows that they should respond to in-game physics. 
+
+Check out this video to learn more about rigidbodies in Unity:
+
+[Rigidbody.AddForce()](unity3d.com/learn/tutorials/modules/beginner/physics/addforce)
+
+Write a script to apply a force that moves a rigidbody object. You can trigger the movement however you want, as long as it's observable. Submit a screencast of your object with the force applied.
+
+Submission Details
+
+Write a script to apply a force that moves a rigidbody object. You can trigger the movement however you want, as long as it's observable. Submit a screencast of your object with the force applied.
+
+
+

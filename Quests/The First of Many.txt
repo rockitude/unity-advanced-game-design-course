@@ -1,0 +1,24 @@
+Description
+
+In Game Design, we always planned our projects using an abbreviated version of a generic game design document. In the real world of game development, every game is different and requires slightly different planning and documentation. We'll tackle this issue in a very real way when we work on our team development project. For now, we'll stick with this standardized document for the game you're going to build as you review. However, we'll skip the "abbreviated" part: read through [this article](https://www.evernote.com/shard/s1/sh/7ccad265-806b-4843-9338-0b512e37ef89/c11446752b8fca5bc34552633a92465a) to see the whole document format and the thinking behind it. 
+
+You're about to do a whole bunch of review quests that will refresh your memory of how to build games with Unity, and while you do them you're going to build a game on your own. Before you get started on your game, you'll need to plan it out and figure out exactly which assets you'll need and how to put them together. Sounds like a job for a game design document! Time to get writing.
+
+Here's a summary of the format that you can refer to while you write:
+
+* Intro
+* Character Biographies
+* Rough Plot
+* Gameplay Description (Including controls)
+* Artistic Style Outline
+* Systematic Breakdown of Components
+* Asset Breakdown (List form)
+* Suggested Game Flow Diagram
+* Suggested Project Timeline
+* Additional Ideas and Possibilities
+
+For your game flow diagram, you can use web applications like [LucidChart](www.lucidchart.com), [Gliffy](www.gliffy.com), [draw.io](www.draw.io), [Cacoo](cacoo.com) or whatever else works for you. Insert the chart into your document as an image or attach it alongside.
+
+Submission Details
+
+Attach all relevant documents to your submission. 

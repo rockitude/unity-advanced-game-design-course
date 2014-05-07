@@ -1,0 +1,13 @@
+**Description**
+
+We can create materials in Unity that look like all kinds of different things, but making our surfaces behave like those materials is a whole other matter. We might make surface that look like ice, but will we slide around on it like ice? Not by default, but we can use Unity's Physic Materials feature to make this happen.
+
+Check out this video on physic materials to learn more:
+
+[Physic Materials](unity3d.com/learn/tutorials/modules/beginner/physics/physic-materials)
+
+Now that you know how to apply physic materials, create a physic material test environment with multiple surfaces (ice, rubber, etc.) and a character controller. Test the surfaces and describe the properties/differences between them in your submission. Also, attach a screenshot of your test environment below the submission box.
+
+**Submission Details**
+
+Test the surfaces and describe the properties/differences between them in your submission. Also, attach a screenshot of your test environment below the submission box.

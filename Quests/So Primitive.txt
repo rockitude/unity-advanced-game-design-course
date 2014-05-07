@@ -1,0 +1,17 @@
+Description
+
+A lot of the work you're going to be doing in Unity involves creating and manipulating objects. Most of your objects will come from the Asset Store or other applications like Blender, but there are a few types of objects that Unity can make all by itself. These are called 'Primitives', and they're mostly simple shapes. 
+
+Create the following primitive objects and take some screenshots that show them in your game world. You can delete them afterward if you're not going to use them.
+
+* Plane
+* Cube
+* Sphere
+* Capsule
+* Cylinder
+
+Submission Details
+
+Create primitive objects and take some screenshots that show them in your game world.
+
+Attach your screenshot(s) to your submission.

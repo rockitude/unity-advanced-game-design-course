@@ -1,0 +1,15 @@
+Description
+
+In real life, it's pretty rare to see two solid objects passing through each other. In your game world, however, it's the default. If you want two solid objects to collide realisitically, using Unity's physics engine to determine how the the objects should react to the collision, you'll need to add colliders to your objects. 
+
+Watch this video for more information on colliders:
+
+[Apply Colliders](unity3d.com/learn/tutorials/modules/beginner/physics/colliders)
+
+Take a look at the *physics* section of the *Add Component* menu to see which collider shapes are available. For each type of collider, apply it to an object and take a screenshot.
+
+Submission Details
+
+For each type of collider, apply it to an object and take a screenshot.
+
+Attach your screenshots to your submission.

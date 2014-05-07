@@ -1,0 +1,15 @@
+Description
+
+Games are interactive by nature, and in Unity we add interactivity to our games using scripts that alter the properties of our objects: we can change their position in space, activate or deactivate them, add lights and colliders and all kinds of other stuff.
+
+Watch this video to learn more about how to use scripting to alter properties of objects in Unity:
+
+[Altering properties (light.intensity, etc.)](unity3d.com/learn/tutorials/modules/intermediate/scripting/properties)
+
+Write a script for your game that accesses a property of a component to change its value.
+
+Submission Details
+
+Write a script for your game that accesses a property of a component to change its value.
+
+Paste your code into the submission box.

@@ -1,0 +1,9 @@
+**Description**
+
+Lights are a great way to start adding ambiance to your game world, but there are a few other options available, including fog and ambient light settings. To access these, check out the *Render Settings* page, which you can get to from the *Edit* menu. 
+
+Change the fog and ambient light settings to fit your game. Take a screenshot that shows both your game view and your render settings so I can see the changes you made.
+
+**Submission Details**
+
+Change the fog and ambient light settings to fit your game. Take a screenshot that shows both your game view and your render settings so I can see the changes you made.

@@ -1,0 +1,13 @@
+**Description**
+
+Just like with Unity, in Blender we often need to work with multiple objects that are related to each other. We usually either want to move them together or apply changes to them as a group. And just like in Unity, we're going to accomplish this by creating parent/child relationships between our objects.
+
+Check out this video to learn more about how to create parent/child relationships between objects in Blender:
+
+[Joining and Linking (Parent/Child Relationships)](www.youtube.com/watch?v=kq3Ja-nNv7Q&list=PL006307E237BB7FF6&index=11)
+
+Create a snowman out of multiple linked primitives. If you'd like, you can use a snowman you created from a previous quest. Otherwise, you can start from scratch. Attach a screenshot of your snowman model to your submission.
+
+**Submission Details**
+
+Create a snowman out of multiple linked primitives. If you'd like, you can use a snowman you created from a previous quest. Otherwise, you can start from scratch. Attach a screenshot of your snowman model to your submission.

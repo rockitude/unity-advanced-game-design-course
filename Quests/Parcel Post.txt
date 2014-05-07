@@ -1,0 +1,9 @@
+Description
+
+All of your Unity projects are going to require a whole lot of assets. Some of the assets you'll need will be common to almost all of the projects you make. Unity's got you covered in this department: whenever you create a new project, you'll get a menu with lots of options for common assets you might like to import: character controllers, skyboxes, terrain assets, light cookies, scripts and a whole bunch of other stuff. 
+
+Open the *New Project* or *Open Project* window and take a look at the list of available packages that you can import. Which of these packages do you think you could use in your project, and what would you use it for? Write your answer in the submission box. 
+
+Submission Details
+
+Open the *New Project* or *Open Project* window and take a look at the list of available packages that you can import. Which of these packages do you think you could use in your project, and what would you use it for? Write your answer in the submission box. 

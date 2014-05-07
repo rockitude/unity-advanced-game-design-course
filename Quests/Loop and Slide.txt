@@ -1,0 +1,13 @@
+**Description**
+
+Now that you can create primitive objects, it's time to get a little more complex. In this quest, you'll learn how to switch into edit mode and apply some basic alterations to the simple shapes you've created.
+
+Check out this video to learn about editing objects, extruding and applying loop cuts:
+
+[Edit Mode, Extrude and Loop Cuts](www.youtube.com/watch?v=OszPcbecX50&list=PL006307E237BB7FF6&index=5)
+
+Add a primitive and make it into a dinosaur using extrude and loop cuts. Attach a screenshot of your dinosaur to your submission.
+
+**Submission Details**
+
+Add a primitive and make it into a dinosaur using extrude and loop cuts. Attach a screenshot of your dinosaur to your submission.

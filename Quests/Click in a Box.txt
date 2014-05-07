@@ -1,0 +1,11 @@
+**Description**
+
+Now that you can apply simple edits to objects, it's time to learn one of the fundamental concepts of 3D modeling: box modeling. Welcome to Box Modeling 101. 
+
+[Box Modeling 101](www.youtube.com/watch?v=tiz0slQmQTc&list=PL006307E237BB7FF6&index=6)
+
+Create a simple model of a cartoon head. Attach a screenshot of your model to your submission.
+
+**Submission Details**
+
+Create a simple model of a cartoon head. Attach a screenshot of your model to your submission.

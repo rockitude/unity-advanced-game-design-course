@@ -1,0 +1,13 @@
+**Directions**
+
+Sometimes you're dealing with a small set of predictible values, and you want to be able to refer to them easily. To do this, we're going to use a feature of JavaScript called Enumeration, which lets us easily assign values to a set of variables.
+
+Check out this video for more info:
+
+[Enumerations](unity3d.com/learn/tutorials/modules/beginner/scripting/enumerations)
+
+Create your own custom enumeration. You can choose any set of values you like. Paste your code into the submission box.
+
+**Submission Details**
+
+Create your own custom enumeration. You can choose any set of values you like. Paste your code into the submission box.

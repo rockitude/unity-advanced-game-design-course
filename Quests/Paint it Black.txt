@@ -1,0 +1,15 @@
+**Description**
+
+We've created some pretty cool objects so far, but none of them have any color or texture. Check out this video to learn how to apply materials to the surfaces of your object.
+
+[Adding Color and Materials](www.youtube.com/watch?v=rRdKj33Keec&list=PL006307E237BB7FF6&index=8)
+
+Use what you've learned so far to create a multi-colored Rubik's cube. Use the image below as a reference.
+
+//image
+
+Take a screenshot of your model and attach it to your submission.
+
+**Submission Details**
+
+Use what you've learned so far to create a multi-colored Rubik's cube. Take a screenshot of your model and attach it to your submission.

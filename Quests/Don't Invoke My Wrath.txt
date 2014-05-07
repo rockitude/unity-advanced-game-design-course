@@ -1,0 +1,13 @@
+**Description**
+
+By default, the code in your script takes action at the time it's executed. Sometimes you want to give an instruction, but wait until later to carry it out. To do that, you'll want to use the Invoke() family of functions.
+
+Check out this video for more information:
+
+[Invoke](unity3d.com/learn/tutorials/modules/beginner/scripting/invoke)
+
+Use the Invoke() function to call another function after a delay. Paste your code into the submission box.
+
+**Submission Details**
+
+Use the Invoke() function to call another function after a delay. Paste your code into the submission box.

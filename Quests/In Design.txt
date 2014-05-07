@@ -1,0 +1,18 @@
+**Description**
+
+Game Design is a relatively new field, and there is no central authority that dictates what constitutes good design. There are, however, quite a few conventions that most video game designers agree on. In this quest, you'll familiarize yourself with some of these conventions and propose a game that exemplifies them.
+
+For this quest, learn about a new game design principle by reading an article or book, watching a video, listening to a podcast or through any other media you like. Then, write a pitch or simple game design document proposing a game concept that exemplifies the principle you learned about. Explain why this principle is important and how it fits into your game idea.
+
+Here are some resources you can start with. More will be added to the list over time:
+
+* [Adrian Lopez' Game Design Blog](http://gamedesigntheory.blogspot.com/search/label/design%20principles)
+* [Red Key Blue Key](http://www.redkeybluekey.com/2011/09/8-principles-of-good-game-design.html)
+* [Wikipedia: Game Design](http://en.wikipedia.org/wiki/Game_design)
+* [Gamasutra: 13 Basic Principles of Game Design](http://www.gamasutra.com/view/feature/3949/the_13_basic_principles_of_.php)
+* [Boardgame Ben](http://marshalkowski.com/blog/)
+* [Extra Credits](http://www.youtube.com/user/ExtraCreditz)
+
+**Submission Details**
+
+For this quest, learn about a new game design principle by reading an article or book, watching a video, listening to a podcast or through any other media you like. Then, write a pitch or simple game design document proposing a game concept that exemplifies the principle you learned about. Explain why this principle is important and how it fits into your game idea.

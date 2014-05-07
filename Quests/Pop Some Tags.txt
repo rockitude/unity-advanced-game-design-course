@@ -1,0 +1,13 @@
+**Description**
+
+In recent years, lots of websites and applications have started using Tags to help you organize your data: perhaps the most well-known example of this is Twitter, which uses hashtags #likethis to make tweets more easily searchable and organizeable. Unity allows you to apply tags to your objects so you can find and organize them more easily with built-in functions like FindWithTag().
+
+Check out this video to learn more about Tags:
+
+[Tags](unity3d.com/learn/tutorials/modules/beginner/editor/tags)
+
+Create a custom tag, apply it to an object and use it to make another object look at the tagged object using GameObject.FindWithTag(), as demonstrated in the video. Take a screenshot of the object with the custom tag applied and attach it to your submission. In the submission box, paste the code you wrote.
+
+**Submission Details**
+
+Create a custom tag, apply it to an object and use it to make another object look at the tagged object using GameObject.FindWithTag(), as demonstrated in the video. Take a screenshot of the object with the custom tag applied and attach it to your submission. In the submission box, paste the code you wrote.

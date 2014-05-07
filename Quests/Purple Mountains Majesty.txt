@@ -1,0 +1,15 @@
+Description
+
+Most games in Unity simulate a world environment, which means they need terrain for characters to traverse. 
+
+Watch this video to review how to create terrain for your game:
+
+[Create Terrain](www.youtube.com/watch?v=Ep-uo15gOJIcom)
+
+Create a new terrain object for your game and create a height map that includes hills, plateaus, mountains and sunken areas. Try to make something realistic that a player will be able to walk around on. 
+
+Submission Details
+
+Create a new terrain object for your game and create a height map that includes hills, plateaus, mountains and sunken areas. 
+
+Take a screenshot of your terrain and attach it to your submission.

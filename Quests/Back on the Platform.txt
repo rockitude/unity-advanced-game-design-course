@@ -1,0 +1,7 @@
+Description
+
+A platform is a product or service that other companies or users can built on top of. The class examples of platforms in the game industry are home consoles, but there are lots of other types of platforms out there, including software platforms like Steam and Facebook, and mobile devices like iOS and Android phones. 
+
+Review [this site](http://edtech2.boisestate.edu/michaellipson/502/virtualtour/start.html) for more information. No need to complete the questions on the site, we've got a different assignment in mind for you:
+
+Play 3 games (for about 10 minutes each) on 3 different platforms and write a short reflection about your experience with each. Discuss the similarities and differences between the platforms you played on and their capabilities. What are the strengths and weaknesses of each? Do they compete directly? If you were making a game, which would you want to build for?

@@ -1,0 +1,13 @@
+**Description**
+
+Now that you know how to create objects, it's time to learn the other really important function that helps you do the opposite: remove them from your game. The function is called Destroy, and it deletes the object entirely. It's important to be able to do this, as every object we add to our game increases the strain on the player computer's resources. We would like lots of people to play our games, which means we have to accomodate less expensive, lower-end computers that may not have as much power as we'd like.
+
+Check out this video to learn how the Destroy() function works:
+
+[Destroy](unity3d.com/learn/tutorials/modules/beginner/scripting/destroy)
+
+Create a function that destroys and object when a key is pressed. Create a screencast of the object being destroyed after runtime. Attach the screencast to your submission.
+
+**Submission Details**
+
+Create a function that destroys and object when a key is pressed. Create a screencast of the object being destroyed after runtime. Attach the screencast to your submission.

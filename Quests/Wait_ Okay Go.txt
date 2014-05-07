@@ -1,0 +1,13 @@
+**Directions**
+
+When you write an instruction in a script, that instruction is carried out by the computer immediately at the time that it's read. Sometimes this isn't ideal, especially when we want to give the computer a task that takes more time to complete than the one frame in which the instruction is read. For these tasks, we'll be using a convenient feature called Coroutines. Coroutines allow us to perform a task that can be set aside and resumed later. They're also convenient for moving objects without polling information using Update(), which improves the efficiency of our code.
+
+Check out this video on coroutines for more details:
+
+[Coroutines](unity3d.com/learn/tutorials/modules/intermediate/scripting/coroutines)
+
+Create your own custom coroutine. You can try moving an object around, like in the example, or come up with an idea of your own. Record a screencast of the result of your coroutine, and paste your code in the submission box.
+
+**Submission Details**
+
+Create your own custom coroutine. You can try moving an object around, like in the example, or come up with an idea of your own. Record a screencast of the result of your coroutine, and paste your code in the submission box.

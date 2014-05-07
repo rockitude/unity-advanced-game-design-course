@@ -1,0 +1,13 @@
+**Description**
+
+All of the models you create in Blender start out as simple objects, called Primitives, which you will mold and shape until you've created the object you want. 
+
+Check out this video to learn about adding and transforming objects:
+
+[Adding and Transforming Objects](www.youtube.com/watch?v=wklRKGC7ai8&list=PL006307E237BB7FF6&index=3)
+
+Create a model of a snowman by following the directions in the video. Attach a screenshot of your snowman to your submission.
+
+**Submission Details**
+
+Create a model of a snowman by following the directions in the video. Attach a screenshot of your snowman to your submission.

@@ -1,0 +1,17 @@
+**Description**
+
+Creating materials is a really important part of building a 3D model, but we shouldn't restrict ourselves to solid colors. You can create a texture that looks like anything you can imagine. To do it, you'll need to use an image editor, like Photoshop or Pixlr.
+
+Watch this video to learn about UV mapping in Blender:
+
+//video
+
+Once you've created a UV-map for your cube and applied it in Blender, export it using the File > Export menu option, and choose .obj as your export format. OBJ files are compatible with Unity. Drag your exported OBJ file into the Project window in Unity, and you should see your model appear there after a second or two. Drag your PNG-formatted UV map into your Project window as well. Now you've got everything you need in Unity. 
+
+To test out your model, drag it into the Hierarchy to add it to your project. You should see it in the Scene view. Now, drag the UV map image onto it, and voila! You should see the object with the texture applied correctly.
+
+To complete the quest, submit a screenshot of your textured cube in the Scene view in Unity.
+
+**Submission Details**
+
+To complete the quest, submit a screenshot of your textured cube in the Scene view in Unity.

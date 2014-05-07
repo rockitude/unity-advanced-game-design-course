@@ -1,0 +1,13 @@
+**Description**
+
+It's time to take a leap into thus-far unexplored territory, at least for us in the NHS Game Design program: creating our own 3D model assets. To do this we're going to use a new application, entirely separate from Unity, called Blender. Blender's primary function is creating 3D-animated movies, but we can use it to create characters and objects that can be easily imported into Unity for use in our games. 
+
+To get started on your Blender journey, begin with this video:
+
+[Blender Basics](www.youtube.com/watch?v=VmOFRkRjOSQ&list=PL006307E237BB7FF6&index=1)
+
+Take a screenshot of the Object view in Blender, including your cube, camera and 3D cursor. Attach your screenshot to your submission.
+
+**Submission Details**
+
+Take a screenshot of the Object view in Blender, including your cube, camera and 3D cursor. Attach your screenshot to your submission.
