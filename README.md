@@ -1,4 +1,4 @@
-unity-advanced-game-design-course
+NHS Advanced Game Design Course (in Unity 3D)
 =================================
 
 This repository contains all of the material for my quest-based Advanced Game Design course, created at Natick High School in Natick, MA. The course covers game development using [Unity 3D](http://www.unity3d.com) and [Blender](http://www.blender.org). 
